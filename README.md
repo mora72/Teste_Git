@@ -1,2 +1,2 @@
-# Teste_Git
- Teste_Git - Curso Guanabara
+# Projeto de Teste do GitHub
+ Repositório criado para testes do GutHub - Curso Guanabara
